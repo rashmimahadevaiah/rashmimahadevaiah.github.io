@@ -2,7 +2,13 @@ title: "Rashmi Mahadevaiah's Portfolio"
 description: "AI Product Manager with expertise in IoT, Machine Learning, and Analytics"
 baseurl: ""
 url: "https://rashmimahadevaiah.github.io"
+
+# Theme settings
+theme: jekyll-theme-minimal
 remote_theme: pages-themes/minimal@v0.2.0
+
+# Build settings
+markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
