@@ -11,13 +11,9 @@ exclude:
   - README.md
   - .gitignore
   - package.json
-  - 404.html
-  - src/assets
-  - src/_posts
-  - src/_includes
-  - src/_layouts
-  - src/pages
-  - src/css
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
   - src/js
   - src/fonts
 permalink: pretty
