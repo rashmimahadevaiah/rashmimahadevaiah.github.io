@@ -1,0 +1,32 @@
+title: "Rashmi Mahadevaiah's Portfolio"
+description: "Portfolio website for Rashmi Mahadevaiah, an AI Product Manager."
+baseurl: ""
+url: "https://yourdomain.com"
+theme: "jekyll-theme-minimal"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - .gitignore
+  - package.json
+  - 404.html
+  - src/assets
+  - src/_posts
+  - src/_includes
+  - src/_layouts
+  - src/pages
+  - src/css
+  - src/js
+  - src/fonts
+permalink: pretty
+markdown: kramdown
+highlighter: rouge
+sass:
+  style: compressed
+  sass_dir: src/css
+  css_dir: src/css
+  images_dir: src/assets/images
+  javascripts_dir: src/assets/js
+  fonts_dir: src/assets/fonts

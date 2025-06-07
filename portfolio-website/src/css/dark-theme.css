@@ -1,0 +1,36 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+a {
+    color: #bb86fc;
+}
+
+header, footer {
+    background-color: #1e1e1e;
+}
+
+section {
+    background-color: #1e1e1e;
+    border: 1px solid #333333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #ffffff;
+}
+
+button {
+    background-color: #bb86fc;
+    color: #ffffff;
+}
+
+input, textarea {
+    background-color: #333333;
+    color: #ffffff;
+    border: 1px solid #444444;
+}
+
+input::placeholder, textarea::placeholder {
+    color: #aaaaaa;
+}

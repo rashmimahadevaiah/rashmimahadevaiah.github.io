@@ -1,0 +1,18 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "A portfolio website for Rashmi Mahadevaiah, showcasing her experience and projects in AI and IoT.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "jekyll serve",
+    "build": "jekyll build"
+  },
+  "author": "Rashmi Mahadevaiah",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "jekyll": "^4.2.0"
+  }
+}
